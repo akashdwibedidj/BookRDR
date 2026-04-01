@@ -1,0 +1,16 @@
+# Generated data files — too large for GitHub
+chunks/
+vector_db/
+cleaned_texts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Anaconda
+*.egg-info/
+.env
+
+# Books — personal files
+books/

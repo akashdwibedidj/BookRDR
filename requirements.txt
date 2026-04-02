@@ -1,0 +1,8 @@
+pymupdf
+ebooklib
+beautifulsoup4
+sentence-transformers
+chromadb
+ollama
+streamlit
+numpy
